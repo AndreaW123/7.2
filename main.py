@@ -1,8 +1,8 @@
 # This is a header for the application
 # You should read this header and insert your name and your date below as part of the peer review
 # This is a typical part of any program
-# Author: <author>
-# Creation Date: <date>
+# Author: Andrea Napoli-Wilson
+# Creation Date: 9/29/2020
 # Below is a simple program with 10 issues (some are syntax errors and some are logic errors.  You need to identify the issues and correct them.
 
 import random
@@ -45,7 +45,7 @@ def checkCave(chosenCave):
 	      else:
         #print 'Gobbles you down in one bite!'
                 print('Gobbles you down in one bite!')
-        #missing parenthesis needed for print
+                #missing parenthesis needed for print
 
 playAgain = 'yes'
 #while playAgain = 'yes' or playAgain = 'y':
